@@ -1,0 +1,25 @@
+body {
+    background-image: url(../Multimedia/background.jpg);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header .cuadros {
+    background-color: rgb(100, 116, 116);
+    margin-left: 3cm;
+    margin-top: 2cm;
+    margin-bottom: 3cm;
+    width: 10cm;
+    height: 15cm;
+    
+}
+header .cuadros img {
+    margin-top: 1cm;
+    width: 8cm;
+    margin-left: 1cm;
+    height: 10cm;
+
+}
+header .card-title {
+    margin-left: 80px;
+}
